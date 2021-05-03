@@ -12,12 +12,12 @@
 - Mail-Spam-Detection.ipynb is a interative notebook that contain codes in. 
 
 ## Library
-- nltk==3.5
-- numpy==1.20.2
-- pandas==1.1.4
-- pandas-bokeh==0.5.5
-- regex==2020.11.13
-- scikit-learn==0.24.1
+- nltk
+- numpy
+- pandas
+- pandas-bokeh
+- re
+- scikit-learn
 
 You can find all the library in the requirements.txt
 
