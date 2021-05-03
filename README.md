@@ -1,1 +1,8 @@
-# Mail_Spam_Detection_Project
+# Mail Spam Detection Project
+
+![Poetry Classification Header](https://i.resmim.net/i/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f30356466386363322d343431332d346137632d393363372d6462663739393162313861372f6464787a3568342d613834.jpg)
+
+## Models and Data
+
+-   Data: Mail Datasets from Kaggle
+-   Classification Methods: Logistic Regression (sklearn)
