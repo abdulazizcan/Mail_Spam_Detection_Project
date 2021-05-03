@@ -15,8 +15,7 @@
 - nltk
 - numpy
 - pandas
-- pandas-bokeh
-- re
+- regex
 - scikit-learn
 
 You can find all the library in the requirements.txt
