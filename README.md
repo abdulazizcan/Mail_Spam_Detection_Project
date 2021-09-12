@@ -1,6 +1,6 @@
 # Mail Spam Detection Project
 
-![Poetry Classification Header](.jpg)
+![]()
 
 ## Model and Data
 
